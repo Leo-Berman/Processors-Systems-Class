@@ -1,0 +1,19 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sim_1/new/t_4BitAdder.v,1729606408,verilog,,,,t_fourBitAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sim_1/new/t_fullAdder.v,1729715109,verilog,,,,t_fullAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sim_1/new/t_halfAdder.v,1729551107,verilog,,,,t_halfAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sim_1/new/t_sixteenBitAdder.v,1729715269,verilog,,,,t_sixteenBitAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sim_1/new/t_sixtyfourBitAdder.v,1729606336,verilog,,,,t_sixtyfourBitAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sim_1/new/t_sixtyfourBitSubtractor.v,1729715575,verilog,,,,t_sixtyfourBitSubtractor,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sim_1/new/t_thirtytwoBitAdder.v,1729715491,verilog,,,,t_thirtytwoBitAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/fourBitAdder.v,1729556785,verilog,,/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/fullAdder.v,,fourBitAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/fullAdder.v,1729553909,verilog,,/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/halfAdder.v,,fullAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/halfAdder.v,1729551103,verilog,,/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/sixteenBitAdder.v,,halfAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/sixteenBitAdder.v,1729557990,verilog,,/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/sixtyfourBitAdder.v,,sixteenBitAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/sixtyfourBitAdder.v,1729606329,verilog,,/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/sixtyfourBitSubtractor.v,,sixtyfourBitAdder,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/sixtyfourBitSubtractor.v,1729611635,verilog,,/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/thirtytwoBitAdder.v,,sixtyfourBitSubtractor,,,,,,,,
+/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sources_1/new/thirtytwoBitAdder.v,1729605214,verilog,,/home/betty/Desktop/TULastSemester/ECE4612/APS_Final_Project/APS_Final_Project.srcs/sim_1/new/t_sixtyfourBitSubtractor.v,,thirtytwoBitAdder,,,,,,,,
