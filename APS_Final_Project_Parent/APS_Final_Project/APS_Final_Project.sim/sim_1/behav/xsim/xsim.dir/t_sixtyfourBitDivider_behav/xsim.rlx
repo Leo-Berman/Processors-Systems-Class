@@ -1,0 +1,12 @@
+
+{ 
+    crc :  5628536146716173418  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 1d7e24dda4c14e1b8362bd5d9702b6ac --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot t_sixtyfourBitDivider_behav xil_defaultlib.t_sixtyfourBitDivider xil_defaultlib.glbl" , 
+    buildDate : "May 24 2019" , 
+    buildTime : "14:51:52" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/t_sixtyfourBitDivider_behav/xsimk\"   \"xsim.dir/t_sixtyfourBitDivider_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/t_sixtyfourBitDivider_behav/obj/xsim_1.lnx64.o\" -L\"/home/betty/Xilinx/Vivado/2019.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

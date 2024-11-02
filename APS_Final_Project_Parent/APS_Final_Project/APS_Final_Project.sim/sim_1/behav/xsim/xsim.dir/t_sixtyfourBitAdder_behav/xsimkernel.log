@@ -1,7 +1,7 @@
-Running: xsim.dir/t_sixtyfourBitAdder_behav/xsimk -simmode gui -wdb t_sixtyfourBitAdder_behav.wdb -simrunnum 0 -socket 59089
+Running: xsim.dir/t_sixtyfourBitAdder_behav/xsimk -simmode gui -wdb t_sixtyfourBitAdder_behav.wdb -simrunnum 0 -socket 51755
 Design successfully loaded
-Design Loading Memory Usage: 33316 KB (Peak: 33668 KB)
-Design Loading CPU Usage: 30 ms
+Design Loading Memory Usage: 33324 KB (Peak: 33676 KB)
+Design Loading CPU Usage: 20 ms
 Simulation completed
-Simulation Memory Usage: 115052 KB (Peak: 172584 KB)
-Simulation CPU Usage: 50 ms
+Simulation Memory Usage: 115060 KB (Peak: 172592 KB)
+Simulation CPU Usage: 40 ms
